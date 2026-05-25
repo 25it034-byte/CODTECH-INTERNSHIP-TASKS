@@ -6,16 +6,6 @@ Each module emphasizes clean code structure, thorough error handling, and founda
 
 ---
 
-## 🛠️ Repository Architecture & Module Index
-
-The project files are structured cleanly as independent executable modules within the root directory:
-├── README.md                  # Comprehensive portfolio documentation
-├── FileHandlingUtility.java   # Task 1: Persistent storage utility
-├── RestAPIClient.java         # Task 2: REST network API client
-├── ChatServer.java            # Task 3: TCP server routing node
-├── ChatClient.java            # Task 3: TCP client communication endpoint
-└── RecommendationSystem.java  # Task 4: Content decision-matrix engine
-
 ## 💻 Technical Architecture Breakdowns
 
 ### 1. Persistent File Handling Utility (`FileHandlingUtility.java`)
